@@ -9,8 +9,6 @@
 
 - 👨‍💻You can take a look at my website on here [https://0xrama.com](https://0xrama.com)
 
-- 📝 I regularly write articles on (still on development) [https://0xrama.com/blog](https://0xrama.com/blog)
-
 - 💬 Ask me about **React,Red teaming and blue teaming**
 
 - 📫 How to reach me **rama@0xrama.com**
